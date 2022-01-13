@@ -46,3 +46,5 @@ To verify that nginx was successfully installed and is running as a service in U
 ```
 $ sudo systemctl status nginx
 ```
+
+![](./images/image3.png)
