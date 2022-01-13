@@ -322,3 +322,7 @@ At this point, your LAMP stack is completely installed and fully operational.
 You can test it to validate that Nginx can correctly hand `.php` files off to your PHP processor.
 
 You can do this by creating a test PHP file in your document root. Open a new file called `info.php` within your document root in your text editor:
+
+```
+$ nano /var/www/projectLEMP/info.php
+```
