@@ -357,3 +357,7 @@ At the time of this writing, the native MySQL PHP library `mysqlnd` doesn’t 
 We will create a database named **example_database** and a user named **example_user**, but you can replace these names with different values.
 
 First, connect to the MySQL console using the **root** account:
+
+```
+$ sudo mysql
+```
