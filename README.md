@@ -88,3 +88,5 @@ The URL in browser shall also work if you do not specify port number since all w
 If you see following page, then your web server is now correctly installed and accessible through your firewall.
 
 ![](./images/Nginx_welcome.png)
+
+In fact, it is the same content that you previously got by ‘curl’ command, but represented in nice HTML formatting by your web browser.
