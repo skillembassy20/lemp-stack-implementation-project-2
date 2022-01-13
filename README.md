@@ -224,3 +224,6 @@ $ sudo chown -R $USER:$USER /var/www/projectLEMP
 ```
 
 Then, open a new configuration file in Nginx’s sites-available directory using your preferred command-line editor. Here, we’ll use nano:
+```
+$ sudo nano /etc/nginx/sites-available/projectLEMP
+```
