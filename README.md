@@ -1,2 +1,3 @@
-# lemp-stack-implementation-project-2
-This project will extend your knowledge of various Web Stacks. It requires you to deploy and configure a LEMP solution using a very popular Web Server – NGINX.
+# WEB STACK IMPLEMENTATION (LEMP STACK)
+
+Project 2 covers similar concepts as [Project 1](https://github.com/skillembassy20/lamp-stack-implementation-project-1) and helps to cement your skills of deploying Web solutions using LA(E)MP stacks.
