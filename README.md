@@ -110,3 +110,9 @@ $ sudo mysql_secure_installation
 ```
 
 ![](./images/image7.png)
+
+This will ask if you want to configure the VALIDATE PASSWORD PLUGIN.
+
+```
+*Note:** Enabling this feature is something of a judgment call. If enabled, passwords which don’t match the specified criteria will be rejected by MySQL with an error. It is safe to leave validation disabled, but you should always use strong, unique passwords for database credentials.
+```
