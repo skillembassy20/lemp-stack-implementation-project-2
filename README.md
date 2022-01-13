@@ -188,3 +188,5 @@ Note: At the time of this writing, the native MySQL PHP library mysqlnd doesn’
 ```
 
 Your MySQL server is now installed and secured. Next, we will install PHP, the final component in the LEMP stack.
+
+## Step 3 – Installing PHP
