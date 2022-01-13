@@ -441,3 +441,8 @@ Output
 +---------+--------------------------+
 4 rows in set (0.000 sec)
 ```
+
+After confirming that you have valid data in your test table, you can exit the MySQL console:
+```
+mysql> exit
+```
