@@ -99,3 +99,8 @@ Again, use apt to acquire and install this software:
 ```
 $ sudo apt install mysql-server
 ```
+
+
+When prompted, confirm installation by typing `Y`, and then `ENTER`.
+
+When the installation is finished, it’s recommended that you run a security script that comes pre-installed with MySQL. This script will remove some insecure default settings and lock down access to your database system. Start the interactive script by running:
