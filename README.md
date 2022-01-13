@@ -39,3 +39,7 @@ $ sudo apt install nginx
 ```
 
 ![](./images/image2.png)
+
+When prompted, enter `Y` to confirm that you want to install Nginx. Once the installation is finished, the Nginx web server will be active and running on your Ubuntu 20.04 server.
+
+To verify that nginx was successfully installed and is running as a service in Ubuntu, run:
