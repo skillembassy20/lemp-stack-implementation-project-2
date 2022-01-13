@@ -417,3 +417,8 @@ mysql>     content VARCHAR(255),
 mysql>     PRIMARY KEY(item_id)
 mysql> );
 ```
+
+Insert a few rows of content in the test table. You might want to repeat the next command a few times, using different VALUES:
+```
+mysql> INSERT INTO example_database.todo_list (content) VALUES ("My first important item");
+```
