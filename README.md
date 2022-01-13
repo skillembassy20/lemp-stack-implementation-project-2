@@ -66,6 +66,7 @@ or
 $ curl http://127.0.0.1:80
 ```
 
+![](./images/image5.png)
 
 These 2 commands above actually do pretty much the same - they use ***‘curl’*** command to request our Nginx on port 80 (actually you can even try to not specify any port - it will work anyway). The difference is that: in the first case we try to access our server via [DNS name](https://en.wikipedia.org/wiki/Domain_Name_System) and in the second one - by IP address (in this case IP address 127.0.0.1 corresponds to DNS name ‘localhost’ and the process of converting a DNS name to IP address is called “resolution”). We will touch DNS in further lectures and projects.
 
