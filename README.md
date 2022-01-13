@@ -361,3 +361,8 @@ First, connect to the MySQL console using the **root** account:
 ```
 $ sudo mysql
 ```
+
+To create a new database, run the following command from your MySQL console:
+```
+mysql> CREATE DATABASE `example_database`;
+```
