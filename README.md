@@ -26,3 +26,5 @@ ssh -i <Your-private-key.pem> ubuntu@<EC2-Public-IP-address>
 It will look like this:
 
 ![](./images/image1.png)
+
+## Step 1 – Installing the Nginx Web Server
