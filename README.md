@@ -99,7 +99,7 @@ Again, use apt to acquire and install this software:
 ```
 $ sudo apt install mysql-server
 ```
-
+![](./images/image6.png)
 
 When prompted, confirm installation by typing `Y`, and then `ENTER`.
 
