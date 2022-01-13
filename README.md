@@ -48,3 +48,5 @@ $ sudo systemctl status nginx
 ```
 
 ![](./images/image3.png)
+
+If it is green and running, then you did everything correctly - you have just launched your first Web Server in the Clouds!
