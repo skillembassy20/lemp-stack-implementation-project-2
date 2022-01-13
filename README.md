@@ -268,3 +268,8 @@ Here’s what each of these directives and location blocks do:
 - `location ~ /\.ht`— The last location block deals with `.htaccess` files, which Nginx does not process. By adding the deny all directive, if any `.htaccess` files happen to find their way into the document root ,they will not be served to visitors.
 
 When you’re done editing, save and close the file. If you’re using nano, you can do so by typing CTRL+X and then y and ENTER to confirm.
+
+Activate your configuration by linking to the config file from Nginx’s sites-enabled directory:
+```
+$ sudo ln -s /etc/nginx/sites-available/projectLEMP /etc/nginx/sites-enabled/
+```
