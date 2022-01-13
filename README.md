@@ -306,3 +306,5 @@ Now go to your browser and try to open your website URL using IP address:
 ```
 http://<Public-IP-Address>:80
 ```
+
+![](./images/image10.png)
