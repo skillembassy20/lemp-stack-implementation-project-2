@@ -427,3 +427,17 @@ To confirm that the data was successfully saved to your table, run:
 ```
 mysql>  SELECT * FROM example_database.todo_list;
 ```
+
+You’ll see the following output:
+```
+Output
++---------+--------------------------+
+| item_id | content                  |
++---------+--------------------------+
+|       1 | My first important item  |
+|       2 | My second important item |
+|       3 | My third important item  |
+|       4 | and this one more thing  |
++---------+--------------------------+
+4 rows in set (0.000 sec)
+```
