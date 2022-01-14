@@ -559,3 +559,5 @@ $ curl http://localhost:80
 or
 $ curl http://127.0.0.1:80
 ```
+
+![](./images/image24.png)
