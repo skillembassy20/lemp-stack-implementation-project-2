@@ -510,3 +510,7 @@ If you do not have an AWS account - go back to Project 1 Step 0 to sign in to AW
 Hint: In previous project we used Putty on Windows to connect to our EC2 Instance, but there is a simpler way that do not require conversion of .pem key to .ppk - using Git Bash.
 
 Launch Git Bash and run following command:
+
+```
+ssh -i <Your-private-key.pem> azureuser@<EC2-Public-IP-address>
+```
