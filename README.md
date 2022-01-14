@@ -571,3 +571,5 @@ Now it is time for us to test how our Nginx server can respond to requests from 
 ```
 http://<Public-IP-Address>:80
 ```
+
+Another way to retrieve your Public IP address, other than to check it in AWS Web console, is to use following command:
