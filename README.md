@@ -585,3 +585,5 @@ If you see following page, then your web server is now correctly installed and a
 ![](./images/Nginx_welcome.png)
 
 In fact, it is the same content that you previously got by ‘curl’ command, but represented in nice HTML formatting by your web browser.
+
+## Step 2 — Installing MySQL
