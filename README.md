@@ -587,3 +587,7 @@ If you see following page, then your web server is now correctly installed and a
 In fact, it is the same content that you previously got by ‘curl’ command, but represented in nice HTML formatting by your web browser.
 
 ## Step 2 — Installing MySQL
+
+Now that you have a web server up and running, you need to install a Database Management System (DBMS) to be able to store and manage data for your site in a relational database. MySQL is a popular relational database management system used within PHP environments, so we will use it in our project.
+
+Again, use apt to acquire and install this software:
