@@ -516,3 +516,5 @@ ssh -i <Your-private-key.pem> azureuser@<EC2-Public-IP-address>
 ```
 
 It will look like this:
+
+![](./images/image20.png)
