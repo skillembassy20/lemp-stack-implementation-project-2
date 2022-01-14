@@ -541,3 +541,9 @@ $ sudo systemctl status nginx
 ```
 
 ![](./images/image22.png)
+
+If it is green and running, then you did everything correctly - you have just launched your first Web Server in the Clouds!
+
+Before we can receive any traffic by our Web Server, we need to open TCP port 80 which is default port that web brousers use to access web pages in the Internet.
+
+As we know, we have TCP port 22 open by default on our EC2 machine to access it via SSH, so we need to add a rule to EC2 configuration to open inbound connection through port 80:
