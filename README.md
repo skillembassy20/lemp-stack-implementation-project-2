@@ -567,3 +567,7 @@ These 2 commands above actually do pretty much the same - they use ‘curl’ co
 As an output you can see some strangely formatted test, do not worry, we just made sure that our Nginx web service responds to ‘curl’ command with some payload.
 
 Now it is time for us to test how our Nginx server can respond to requests from the Internet. Open a web browser of your choice and try to access following url
+
+```
+http://<Public-IP-Address>:80
+```
