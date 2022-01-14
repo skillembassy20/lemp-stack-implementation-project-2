@@ -514,3 +514,5 @@ Launch Git Bash and run following command:
 ```
 ssh -i <Your-private-key.pem> azureuser@<EC2-Public-IP-address>
 ```
+
+It will look like this:
