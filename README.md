@@ -529,3 +529,5 @@ Since this is our first time using apt for this session, start off by updating y
 $ sudo apt update
 $ sudo apt install nginx
 ```
+
+![](./images/image21.png)
