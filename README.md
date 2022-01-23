@@ -862,3 +862,6 @@ We will create a database named example_database and a user named example_user, 
 
 First, connect to the MySQL console using the root account:
 
+```
+$ sudo mysql
+```
