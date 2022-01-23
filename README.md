@@ -595,3 +595,5 @@ Again, use apt to acquire and install this software:
 ```
 $ sudo apt install mysql-server
 ```
+
+![](./images/image35.png)
