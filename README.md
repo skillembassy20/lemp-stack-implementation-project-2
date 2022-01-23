@@ -645,3 +645,12 @@ If you enabled password validation, you’ll be shown the password strength for 
 Estimated strength of the password: 100 
 Do you wish to continue with the password provided?(Press y|Y for Yes, any other key for No) : y
 ```
+
+
+For the rest of the questions, press Y and hit the ENTER key at each prompt. This will remove some anonymous users and the test database, disable remote root logins, and load these new rules so that MySQL immediately respects the changes you have made.
+
+When you’re finished, test if you’re able to log in to the MySQL console by typing:
+
+```
+$ sudo mysql
+```
