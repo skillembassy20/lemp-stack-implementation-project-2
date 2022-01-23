@@ -700,3 +700,5 @@ To install these 2 packages at once, run:
 ```
 $ sudo apt install php-fpm php-mysql
 ```
+
+![](./images/image38.png)
