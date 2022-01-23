@@ -828,3 +828,9 @@ You can do this by creating a test PHP file in your document root. Open a new fi
 ```
 $ nano /var/www/projectLEMP/info.php
 ```
+
+Type or paste the following lines into the new file. This is valid PHP code that will return information about your server:
+```
+<?php
+phpinfo();
+```
