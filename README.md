@@ -718,3 +718,9 @@ Create the root web directory for your_domain as follows:
 ```
 $ sudo mkdir /var/www/projectLEMP
 ```
+
+Next, assign ownership of the directory with the $USER environment variable, which will reference your current system user:
+
+```
+$ sudo chown -R $USER:$USER /var/www/projectLEMP
+```
