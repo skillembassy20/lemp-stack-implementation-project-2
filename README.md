@@ -673,3 +673,9 @@ Type 'help;' or '\h' for help. Type '\c' to clear the current input statement.
 
 mysql>
 ```
+
+To exit the MySQL console, type:
+
+```
+mysql> exit
+```
