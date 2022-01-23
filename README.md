@@ -780,3 +780,9 @@ This will tell Nginx to use the configuration next time it is reloaded. You can 
 ```
 $ sudo nginx -t
 ```
+
+You shall see following message:
+```
+nginx: the configuration file /etc/nginx/nginx.conf syntax is ok
+nginx: configuration file /etc/nginx/nginx.conf test is successful
+```
