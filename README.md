@@ -607,3 +607,5 @@ $ sudo mysql_secure_installation
 ```
 
 ![](./images/image37.png)
+
+This will ask if you want to configure the VALIDATE PASSWORD PLUGIN.
