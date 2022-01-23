@@ -926,3 +926,9 @@ Insert a few rows of content in the test table. You might want to repeat the nex
 ```
 mysql> INSERT INTO example_database.todo_list (content) VALUES ("My first important item");
 ```
+
+
+To confirm that the data was successfully saved to your table, run:
+```
+mysql>  SELECT * FROM example_database.todo_list;
+```
