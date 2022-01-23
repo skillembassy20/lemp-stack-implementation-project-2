@@ -843,3 +843,9 @@ http://`server_domain_or_IP`/info.php
 ```
 
 ![](./images/image11.png)
+
+After checking the relevant information about your PHP server through that page, it’s best to remove the file you created as it contains sensitive information about your PHP environment and your Ubuntu server. You can use rm to remove that file:
+
+```
+$ sudo rm /var/www/your_domain/info.php
+```
