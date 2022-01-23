@@ -878,3 +878,8 @@ The following command creates a new user named example_user, using mysql_native_
 ```
 mysql>  CREATE USER 'example_user'@'%' IDENTIFIED WITH mysql_native_password BY 'password';
 ```
+
+Now we need to give this user permission over the example_database database:
+```
+mysql> GRANT ALL ON example_database.* TO 'example_user'@'%';
+```
