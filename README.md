@@ -775,3 +775,8 @@ Activate your configuration by linking to the config file from Nginx’s sites-e
 ```
 $ sudo ln -s /etc/nginx/sites-available/projectLEMP /etc/nginx/sites-enabled/
 ```
+
+This will tell Nginx to use the configuration next time it is reloaded. You can test your configuration for syntax errors by typing:
+```
+$ sudo nginx -t
+```
