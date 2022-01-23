@@ -702,3 +702,7 @@ $ sudo apt install php-fpm php-mysql
 ```
 
 ![](./images/image38.png)
+
+When prompted, type Y and press ENTER to confirm installation.
+
+You now have your PHP components installed. Next, you will configure Nginx to use them.
