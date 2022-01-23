@@ -613,3 +613,14 @@ This will ask if you want to configure the VALIDATE PASSWORD PLUGIN.
 ```
 *Note:** Enabling this feature is something of a judgment call. If enabled, passwords which don’t match the specified criteria will be rejected by MySQL with an error. It is safe to leave validation disabled, but you should always use strong, unique passwords for database credentials.
 ```
+
+Answer Y for yes, or anything else to continue without enabling.
+
+```
+VALIDATE PASSWORD PLUGIN can be used to test passwords
+and improve security. It checks the strength of password
+and allows the users to set only those passwords which are
+secure enough. Would you like to setup VALIDATE PASSWORD plugin?
+
+Press y|Y for Yes, any other key for No:
+```
