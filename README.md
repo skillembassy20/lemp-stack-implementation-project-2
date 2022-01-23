@@ -605,3 +605,5 @@ When the installation is finished, it’s recommended that you run a security sc
 ```
 $ sudo mysql_secure_installation
 ```
+
+![](./images/image37.png)
