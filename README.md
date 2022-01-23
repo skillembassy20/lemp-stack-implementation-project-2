@@ -794,3 +794,9 @@ We also need to disable default Nginx host that is currently configured to liste
 ```
 sudo unlink /etc/nginx/sites-enabled/default
 ```
+
+When you are ready, reload Nginx to apply the changes:
+```
+$ sudo systemctl reload nginx
+```
+
