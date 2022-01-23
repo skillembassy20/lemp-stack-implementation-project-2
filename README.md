@@ -900,3 +900,15 @@ Notice the -p flag in this command, which will prompt you for the password used 
 ```
 mysql> SHOW DATABASES;
 ```
+
+This will give you the following output:
+```
+Output
++--------------------+
+| Database           |
++--------------------+
+| example_database   |
+| information_schema |
++--------------------+
+2 rows in set (0.000 sec)
+```
