@@ -841,3 +841,5 @@ You can now access this page in your web browser by visiting the domain name or 
 ```
 http://`server_domain_or_IP`/info.php
 ```
+
+![](./images/image11.png)
